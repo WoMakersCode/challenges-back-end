@@ -16,6 +16,7 @@ Bem vindas ao nosso repositório de desafios, aqui vocês encontram diversos cen
 
 * Empresa: Link da empresa que está propondo o desafio, *caso seja um desafio pessoal pode deixar em branco*
 * Enunciado: Coloque o link do enunciando completo
+*DICA: COLOQUE O ENUNCIADO NUM LINK DO GOOGLE O DOCS*
 * Resolução: Link do seu repositório com a resolução
 
 . . . 
