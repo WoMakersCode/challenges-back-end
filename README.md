@@ -3,7 +3,7 @@
 # Challenges Back End
 Repositório referente à desafios de **Back End** da womakerscode.
 
-Bem vindas ao nosso repositório de desafios, aqui vocês encontram diversos cenários para praticarem e também para contribuirem com a comunidade, mandem issues!
+Bem vindas ao nosso repositório de desafios, aqui vocês encontram diversos cenários para praticarem e também para contribuirem com a comunidade, mandem issues e PRs!
 
 
 | Empresa | Enunciado | Resolução    
