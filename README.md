@@ -6,7 +6,7 @@ Repositório referente à desafios de **Back End** da womakerscode.
 Bem vindas ao nosso repositório de desafios, aqui vocês encontram diversos cenários para praticarem e também para contribuirem com a comunidade, mandem issues!
 
 
-| Empresa | Enunciciado | Resolução    
+| Empresa | Enunciado | Resolução    
 | ------------- |:-------------:|:-------------:|
 | ... | ... | ... | 
 | ... | ... | ... | 
