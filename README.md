@@ -1,6 +1,6 @@
 ![womakerscode logotipo](https://user-images.githubusercontent.com/42419543/80400262-ed87f580-8890-11ea-8e39-aabe0f3efe1c.png)
 
-# challenges-back-end
+# Challenges Back End
 Repositório referente à desafios de **Back End** da womakerscode.
 
 Bem vindas ao nosso repositório de desafios, aqui vocês encontram diversos cenários para praticarem e também para contribuirem com a comunidade, mandem issues!
