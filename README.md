@@ -8,7 +8,7 @@ Bem vindas ao nosso repositório de desafios, aqui vocês encontram diversos cen
 
 | Empresa | Enunciado | Resolução    
 | ------------- |:-------------:|:-------------:|
-| ... | [Pokedéx](https://docs.google.com/document/d/1Ol-s9ZPP4yGRqs3aNBjaMxFRwRqnOW-gSdkGuQGOEZI/edit?usp=sharing) | [Code -->](https://github.com/anabneri/Pokedex)| 
+| ... | [Pokedéx](https://github.com/WoMakersCode/challenges-back-end/issues/1) | [Code -->](https://github.com/anabneri/Pokedex)| 
 | ... | ... | ... | 
 | ... | ... | ... | 
 | ... | ... | ... | 
@@ -17,7 +17,7 @@ Bem vindas ao nosso repositório de desafios, aqui vocês encontram diversos cen
 * Empresa: Link da empresa que está propondo o desafio, *caso seja um desafio pessoal pode deixar em branco*
 * Enunciado: Coloque o link do enunciando completo
 
-*DICA: COLOQUE O ENUNCIADO NUM LINK DO GOOGLE O DOCS*
+*DICA: COLOQUE O ENUNCIADO NUM LINK DE UMA ISSUE*
 * Resolução: Link do seu repositório com a resolução
 
 . . . 
