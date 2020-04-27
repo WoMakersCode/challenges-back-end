@@ -8,7 +8,7 @@ Bem vindas ao nosso repositório de desafios, aqui vocês encontram diversos cen
 
 | Empresa | Enunciado | Resolução    
 | ------------- |:-------------:|:-------------:|
-| ... | ... | ... | 
+| ... | [Pokedéx](https://docs.google.com/document/d/1Ol-s9ZPP4yGRqs3aNBjaMxFRwRqnOW-gSdkGuQGOEZI/edit?usp=sharing) | [Code -->](https://github.com/anabneri/Pokedex)| 
 | ... | ... | ... | 
 | ... | ... | ... | 
 | ... | ... | ... | 
@@ -37,6 +37,7 @@ Para enviar seus PR (pull Requests) usamos o padrão de commit semântico que co
 
 | commit de exemplo  | o que significa    
 | ------------- |:-------------:| 
+|add: adicionando projeto pokedex     | Adicionando um novo projeto | 
 |chore: adicionando um novo script de build     | Pequenas alterações que não são novas funcionalidades | 
 | docs: explicando o módulo de algoritmos   | Semelhante a uma wiki; documentações etc  |  
 | **feat: add sequência beta**          | Criação de Nova funcionalidade|  
