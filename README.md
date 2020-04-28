@@ -10,7 +10,7 @@ Bem vindas ao nosso repositório de desafios, aqui vocês encontram diversos cen
 | ------------- |:-------------:|:-------------:|
 | ... | [Pokedéx](https://github.com/WoMakersCode/challenges-back-end/issues/1) | [Code -->](https://github.com/anabneri/Pokedex)| 
 | ... | [Autenticação](https://github.com/WoMakersCode/challenges-back-end/issues/2) | ... | 
-| ... | ... | ... | 
+| ... | [Sistema de Cadastro](https://github.com/WoMakersCode/challenges-back-end/issues/3) | ... | 
 | ... | ... | ... | 
 
 
