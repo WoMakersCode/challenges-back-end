@@ -12,6 +12,7 @@ Bem vindas ao nosso repositório de desafios, aqui vocês encontram diversos cen
 | ... | [Autenticação](https://github.com/WoMakersCode/challenges-back-end/issues/2) | ... | 
 | ... | [Sistema de Cadastro](https://github.com/WoMakersCode/challenges-back-end/issues/3) | ... | 
 | ... | [ProductHub](https://github.com/WoMakersCode/challenges-back-end/issues/4)| [Code -->](https://github.com/Kamilahsantos/Nodejs-API) | 
+| ... | [API de Herois com kubernetes e Docker](https://github.com/WoMakersCode/challenges-back-end/issues/7) | [Code -->](https://github.com/anabneri/kubernetes-marathon) | 
 
 
 * Empresa: Link da empresa que está propondo o desafio, *caso seja um desafio pessoal pode deixar em branco*
