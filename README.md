@@ -5,7 +5,7 @@
 Este repositório é mantido pela comunidade WoMakersCode, trazendo uma série de desafios sobre **Desenvolvimento Back End**.
 
 
-[![license](https://img.shields.io/github/license/womakerscode/challenges-front-end.svg)](/license)
+[![license](https://img.shields.io/github/license/womakerscode/challenges-back-end.svg)](/license)
 
 ## :thinking: Como funciona
 Estamos adicionando os desafios na aba `issues` deste repositório. Todos os desafios estão marcados uma label de nível de dificuldade.
