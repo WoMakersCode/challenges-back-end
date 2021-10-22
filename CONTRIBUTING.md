@@ -1,6 +1,6 @@
 # Contribuindo para o Back-end Challenges
 
-Procurando contribuir com algo para o Front-end Challenges? **Veja como você pode ajudar.**
+Procurando contribuir com algo para o Back-end Challenges? **Veja como você pode ajudar.**
 
 Reserve um momento para revisar este documento, a fim de tornar o processo de contribuição fácil e eficaz para todos os envolvidos.
 
