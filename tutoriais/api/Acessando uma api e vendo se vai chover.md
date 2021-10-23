@@ -8,7 +8,7 @@ Nesse breve tutorial vamos utilizar a linguagem de programação Ruby, pois ela 
 
 As API's normalmente possuem regras para utilização, abaixo as regras da API que vamos utilizar.
 
-![CPTEC/INPE](/home/adalberto/github/challenges-back-end/tutoriais/api/images/termosusocptec.png)
+![CPTEC/INPE](https://github.com/adalbertobrant/challenges-back-end/blob/master/tutoriais/api/images/termosusocptec.png)
 
 1- Vamos utilizar a linguagem amiga d@ programador@ a Ruby versão 3.0. Você pode acessar e instalar a mesma na sua máquina ou utilizar alguma IDE online. https://www.ruby-lang.org/pt/
 
@@ -16,7 +16,7 @@ As API's normalmente possuem regras para utilização, abaixo as regras da API q
 
 3- Segue a nossa listinha de super gems :gem:
 
-:floppy_disk:rake ,:floppy_disk:nokogiri, :floppy_disk:rest-client, :floppy_disk:httparty, :floppy_disk:activesupport-core-ext, :floppy_disk:json
+:floppy_disk:rake ,:floppy_disk:  nokogiri, :floppy_disk:  rest-client, :floppy_disk:  httparty, :floppy_disk:  activesupport-core-ext, :floppy_disk:  json
 
 Mais detalhes no site [https://rubygems.org](https://rubygems.org).
 
@@ -42,7 +42,7 @@ gem install nome_da_gema
 
 Vamos começar digitando as nossas famosas gems, dentro do arquivo vaichover.rb
 
-![](/home/adalberto/github/challenges-back-end/tutoriais/api/images/gemasrequire.png)
+![](https://github.com/adalbertobrant/challenges-back-end/blob/master/tutoriais/api/images/gemasrequire.png)
 
 10- Bom já estamos com a primeira parte, ok e se você chegou até aqui,  meu Muito Obrigado!!:cake::confetti_ball:
 
@@ -106,7 +106,7 @@ puts previsao.getClimaCidade4dias('nomeDaCidade') # imprime a previsão da cidad
 
 14- Outra forma é no terminal do linux digitarmos o programa irb e testarmos o arquivo vaichover.rb
 
-![](/home/adalberto/github/challenges-back-end/tutoriais/api/images/irb.png)
+![](https://github.com/adalbertobrant/challenges-back-end/blob/master/tutoriais/api/images/irb.png)
 
 15- Muitas coisas podem ser melhoradas, nesse singelo acesso a API, tais como tratamento dos acentos, imprimir de uma maneira mais bonita e legal o resultado, mas aí deixo como vocês, grandes amigas usando o poder :battery: realizar as melhorias, inclusive nesse 'pequeno' tutorial. Ufa conseguimos acessar a API e agora vamos ficar na torcida pela chuva :cloud_with_lightning_and_rain: porque depois sempre tem o :rainbow:
 
