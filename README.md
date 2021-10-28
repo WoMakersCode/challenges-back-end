@@ -21,9 +21,9 @@ Este repositório é mantido pela comunidade WoMakersCode, trazendo uma série d
 
 ## :closed_book: Tutoriais disponíveis
 
-| Desafio | Nível 
-| ------------- |:-------------:| 
-| *Aguadando contribuições...*| ..  |
+| Desafio | Nível |
+| ------------- |:-------------:|
+| *Acessando uma API e vendo se vai chover | level-100 |
 
 ## :thinking: Como funciona
 Estamos adicionando os desafios na aba `issues` deste repositório. Todos os desafios estão marcados uma label de nível de dificuldade.
@@ -58,6 +58,5 @@ Para enviar um tutorial, siga os seguintes passos:
 6. :tada: Tenha o seu Pull Request aprovado - sucesso!
 
 ## Contributors
-[Laís Lima](https://twitter.com/laislima_dev), [Kamila Santos](https://twitter.com/kamilah_santos), e [Ana Beatriz](https://twitter.com/anabneri)
-
+[Laís Lima](https://twitter.com/laislima_dev), [Kamila Santos](https://twitter.com/kamilah_santos), [Ana Beatriz](https://twitter.com/anabneri), [Adalberto Brant](https://twitter.com/AdalbertoBrant)
 
