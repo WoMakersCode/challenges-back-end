@@ -23,7 +23,8 @@ Este repositório é mantido pela comunidade WoMakersCode, trazendo uma série d
 
 | Desafio | Nível |
 | ------------- |:-------------:|
-| *Acessando uma API e vendo se vai chover | level-100 |
+| Acessando uma API e vendo se vai chover | level-100 |
+| Variáveis de Instância em Ruby | level-100 |
 
 ## :thinking: Como funciona
 Estamos adicionando os desafios na aba `issues` deste repositório. Todos os desafios estão marcados uma label de nível de dificuldade.
@@ -45,6 +46,7 @@ Já os tutoriais, workshops e conteúdos extensos ficam em pastas nesse mesmo re
 4. Envie um Pull Request:tada:
 
 **:question: Não entendi um enunciado, o que eu faço?**
+
 1. Você pode interagir nos comentários da `issue`, enviando a sua dúvida.
 2. Entre no nosso slack, acesse o canal **#challenge-algorithms** e lá tiramos todas as dúvidas referente a esse repositório e auxiliamos no que for possível. [Entre no nosso slack clicando aqui](https://app.slack.com/client/TCPDKMM4Z/CCQ5XKXPX)
 
