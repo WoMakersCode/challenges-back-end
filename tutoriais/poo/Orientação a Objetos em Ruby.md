@@ -4,7 +4,7 @@
 
 ### Classes e Variáveis de Instância em Ruby
 
-<img src="/home/adalberto/github/challenges-back-end/tutoriais/poo/images/bluePrintBubbleLamp.png" style="zoom:33%;" />
+<img src="https://github.com/adalbertobrant/challenges-back-end/blob/master/tutoriais/poo/images/bluePrintBubbleLamp.png" style="zoom:33%;" />
 
 Essa é uma foto que mostra a "blueprint" (planta) de uma lâmpada incandescente, muito usada no século passado e ainda usada em alguns círculos... Ela foi desenhada por uma equipe de profissionais, que antes de saírem por aí construindo coisas, gostam de definir como elas serão e ainda deixam esses lindos desenhos azuis com todos os detalhes de suas construções e aplicações.
 
